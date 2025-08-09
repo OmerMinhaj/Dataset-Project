@@ -7,3 +7,7 @@ To run the program simply follow these steps:
 3. Next run the program cell by sell to form the visuals like charts and graphs, and the data I spliced
 4. Enjoy your run Ashen One!
 
+Another thing the project highlights is proper citationa along with ethical use of generative AI.
+This cant be stressed enough considering that a lot of the time you can finish these projects extremely quickly which somepletely disregarding any understanding
+
+You will find thorough explanation of each process throughout each notebook block and all references have been made at the end of the file.

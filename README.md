@@ -1,4 +1,4 @@
-This is a project I completed a while ao which takes every single stat, weapons and pathway from the hit FromSoftware game Dark SOuls 3. The project was completed using python and other libraries consisting of Numpy, Pandas etc. and was formed in a jupyter notebook.
+This is a project I completed a while ago which takes every single stat, weapons and pathway from the hit FromSoftware game Dark SOuls 3. The project was completed using python and other libraries consisting of Numpy, Pandas etc. and was formed in a jupyter notebook.
 
 To run the program simply follow these steps:
 
